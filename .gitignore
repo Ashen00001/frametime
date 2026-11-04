@@ -1,0 +1,9 @@
+target/
+*.html
+*.png
+# captures and reports never belong in the repo
+captures/
+reports/
+*.pmcsv
+*.hml
+!tests/fixtures/*.csv
